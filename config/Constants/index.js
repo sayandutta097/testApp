@@ -1,0 +1,9 @@
+export const AppTheme = '#8AC84D';
+export const Blue='#3B7FF0'
+export const Green = '#69BE61';
+export const Red = '#ec646d';
+export const Yellow = '#FABD02';
+export const lightGrey = '#adadad';
+export const lightRed = '#E6676B';
+export const lightOrange = '#FA8128';
+export const greenCall = '#5BC236';
